@@ -1,9 +1,0 @@
-{
-    "name": "com.Wolfy.HelloWorld", <-- com.[開発者名].[パッケージ名] のように書く模様(小文字のみ「-」「.」は使える
-    "displayName": "HogePackage",     <-- 任意のパッケージ名
-    "version": "1.0.0",               <-- パッケージのバージョン
-    "description": "説明分",
-    "dependencies": {  
-        "com.unity.package-1": "1.0.0",
-    }
-}
